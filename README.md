@@ -12,10 +12,9 @@ I am an data science and anlaytics professional with 20+ years of experience lea
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/JMitchLenn/MLB-WAR/assets/95981647/82fdc65a-46a6-4f0d-9f50-cadd9888ce27)" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-white-reversed-new/_jcr_content/par/image_360101046.img.png/1639774080219.png)" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.sas.com/en/news/media-gallery/all-images/sas-logo-white-reversed-new/_jcr_content/par/image_360101046.img.png/1639774080219.png" />
 
 <br />
-
 
 
 
